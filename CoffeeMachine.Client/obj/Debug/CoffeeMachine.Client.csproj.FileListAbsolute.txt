@@ -1,0 +1,10 @@
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\bin\Debug\CoffeeMachine.Client.exe.config
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\bin\Debug\CoffeeMachine.Client.exe
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\bin\Debug\CoffeeMachine.Client.pdb
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.csprojAssemblyReference.cache
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.frmMain.resources
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.Properties.Resources.resources
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.csproj.GenerateResource.cache
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.csproj.CoreCompileInputs.cache
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.exe
+C:\Users\cjflo\Source\Repos\CleanSparkDevTest\CoffeeMachine\CoffeeMachine.Client\obj\Debug\CoffeeMachine.Client.pdb
